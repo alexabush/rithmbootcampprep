@@ -3,7 +3,7 @@ What is the difference between JavaScript and ECMAScript?
 While JavaScript and ECMAScript is the same one language, they are different by ECMAScipt is Specification of JavaScript language and JavaScript is ECMAScript Spec's implementation of it.
  
 Who is Brendan Eich?
-Mr. Eich is the creator of JavaScript who managed to create the JS in 10 days and was an employee of Netscape.
+Brendan Eich is the creator of JavaScript who managed to create the JS in 10 days and was an employee of Netscape.
  
 How do you hide and show the Chrome console?
 To hide/show the console press Option + Command + j on a Mac (or Control + Shift + J on Windows and Linux). Another way to get to the console is to right click on the web page, select Inspect, and then move to the tab called Console.
